@@ -1,0 +1,16 @@
+.banner{
+    background-image: url(images/banner.png);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.banner2{
+    margin-left: 350px;
+}
+.search{
+    width: 500px;
+    height: 64px;
+    border-radius: 10px;
+    justify-content: space-around;
+}
